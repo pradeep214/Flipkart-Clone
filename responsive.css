@@ -1,0 +1,76 @@
+@media (max-width: 600px){
+
+    #container {
+        width: 100%;
+        flex-direction: column;
+        padding: 12px;
+    }
+
+    .navbar-main {
+        
+        gap: 40px;
+        
+        margin: 0;
+
+        box-shadow: 8;
+        
+        padding: 25px 23px;
+
+    }
+
+    section .about {
+        background-color: #172337;
+        padding: 30px 60px;
+        width: 100%;
+        display: grid;
+        justify-content: center;
+    }
+    section {
+        display: inline;
+    }
+    input {
+        margin-left: 15px;
+        width: 35vw;
+        padding: 1px 23px;
+    }
+
+    #btn {
+        margin: 0px 11px;
+        padding: 0px 15px;
+        font-size: 12px;
+        color: #2874F0;
+    }
+
+
+
+.nav-img img {
+    display: flex;
+    height: 25px;
+}
+#flex {
+    display: none;
+}
+.main-contant ul li a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    padding: 3px 3px;
+    font-size: 12px;
+}
+#no {
+    display: none;
+}
+.nav-img {
+    display: flex;
+    margin-left: 0vw;
+
+}
+
+#main-img {
+    width: 95vw;
+    margin: 10px 0px 0px 11px;
+    
+}
+}
+
+
